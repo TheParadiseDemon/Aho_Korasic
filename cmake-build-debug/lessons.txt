@@ -1,0 +1,5 @@
+101 aaa aaa aaa 10 10 aaa
+101 bbbbbb aaa aaa 10 10 aaa
+101 bb bb bb 10 10 aaa
+101 aaa bbaba aaa 10 10 aaa
+101 bb bbaba bb 10 10 aaa

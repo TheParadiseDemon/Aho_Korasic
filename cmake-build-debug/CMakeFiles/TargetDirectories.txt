@@ -1,0 +1,3 @@
+D:/Desktop files/C++ tries/AhoKorasic/cmake-build-debug/CMakeFiles/AhoKorasic.dir
+D:/Desktop files/C++ tries/AhoKorasic/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Desktop files/C++ tries/AhoKorasic/cmake-build-debug/CMakeFiles/rebuild_cache.dir
